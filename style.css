@@ -46,7 +46,6 @@ body {
   border: white solid 1px;
   border-radius: 10px;
   margin: 20px 0;
-  padding: 6px;
   text-decoration: none;
 }
 
@@ -74,11 +73,4 @@ body {
 .card-container ul a:active span i {
   transform: rotate(-12deg) scale(1.1);
   transition: transform 0.1s ease;
-}
-
-@media (max-width: 600px) {
-  .card-container ul a{
-    padding: 3px;
-  }
-  }
 }
