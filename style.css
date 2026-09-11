@@ -23,6 +23,7 @@ body {
   text-align: center;
   padding: 15px;
   box-shadow: white;
+   height: auto;
 }
 .card-container ul {
   list-style: none;
